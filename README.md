@@ -5,4 +5,4 @@ With the weather forecasting user can search location by city name and observe t
 
 This is a web application developed used HTML,CSS and JAVASCRIPT.
 
-Used Openweatherapi to get live weather data.
+and used Openweatherapi to get live weather data.
